@@ -1,0 +1,21 @@
+{
+  "name": "node-canvas-clock",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node live-clock.js"
+  },
+  "dependencies": {
+    "canvas": "*"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
