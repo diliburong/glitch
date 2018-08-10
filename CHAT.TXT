@@ -1,9 +1,0 @@
-Hello! Can I dig around looking for the problem?
-
-As I said in the thread in the support forum, your build step is making the debugger sad.
-We'll try to fix the issue in general, but in your specific case you can replace the start command
-with a simpler one, like "node server.js" to make the debugger run.
-
-
-
-
